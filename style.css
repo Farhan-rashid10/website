@@ -1,0 +1,28 @@
+nav {
+    display: inline-flex;
+    justify-content: space-between;
+    margin: 5px;
+    background:black; 
+    text-align: center; 
+}
+nav a {
+text-decoration: none;
+color: white;
+font-style: normal;
+font-weight: bold;
+font-size: xx-large;
+margin: 0 15px;
+text-align: center;
+}
+img{
+    float: left;
+    margin-right: 120px;
+    margin-bottom: 90px;
+}
+header{
+    background-color: black;
+    color: beige;
+}
+p {
+    font-size: large;
+}
